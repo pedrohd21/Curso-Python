@@ -1,0 +1,13 @@
+#Oque fazer
+Criar uma lista de tarefas.
+* Adicionar tarefas
+* Apagar tarefas.
+* Refazer tarefas apagadas.
+
+## Etapas
+* Pedir o usuario para adicionar tarefas até onde ele quiser,
+quando ele decidir para add tudo dentro de uma lista,
+depois fazer um menu com opções
+* Adicionar mais tarefas
+* Apagar tarefas, criar uma lista com as tarefas apagadas para recuperar, 
+* Adicionar tarefas apagadas.

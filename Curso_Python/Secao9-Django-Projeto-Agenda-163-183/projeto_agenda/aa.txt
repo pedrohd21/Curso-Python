@@ -1,0 +1,1 @@
+sudo add-apt-/usr/bin/python3 --remove ppa:fkrull/deadsnakes

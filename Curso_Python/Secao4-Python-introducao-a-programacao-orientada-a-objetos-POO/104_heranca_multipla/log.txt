@@ -1,0 +1,10 @@
+INFO: IPhone ESTÁ CONECTADO.
+ERROR: IPhone JÁ ESTÁ CONECTADO.
+INFO: IPhone foi deligado com sucesso.
+ERROR: IPhone NÃO ESTÁ CONECTADO.
+ERROR: IPhone NÃO ESTÁ CONECTADO.
+INFO: IPhone ESTÁ CONECTADO.
+ERROR: IPhone JÁ ESTÁ CONECTADO.
+INFO: IPhone foi deligado com sucesso.
+ERROR: IPhone NÃO ESTÁ CONECTADO.
+ERROR: IPhone NÃO ESTÁ CONECTADO.
