@@ -1,6 +1,6 @@
-# Curso de Python
+## Curso de Python
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/80px-Python-logo-notext.svg.png)
+Olá! Meu nome é Pedro e este é o meu repositório dedicado ao curso de Python que eu fiz. Aqui você encontrará os projetos, exercícios e recursos adicionais desenvolvidos durante o curso.
 
 ## Descrição do Curso
 
@@ -16,10 +16,10 @@ Durante o curso, foram explorados os seguintes tópicos:
 - Tratamento de exceções e manipulação de erros.
 - Programação orientada a objetos em Python.
 - Manipulação de arquivos e persistência de dados.
+- Bases de dados com Python.
+- Desenvolvimento de aplicações web com Django.
 
-## Recursos Adicionais
 
-Este repositório também inclui recursos adicionais, como anotações de aula, exercícios e links úteis para aprofundar seu conhecimento em Python. Sinta-se à vontade para explorar esses recursos e utilizá-los como apoio durante seus estudos.
 
 
 
