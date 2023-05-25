@@ -1,6 +1,6 @@
 # Curso de Python
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/80px-Python-logo-notext.svg.png)
 
 Este repositório contém os projetos e exercícios desenvolvidos durante o curso de Python que eu fiz. O curso me proporcionou um sólido entendimento dos conceitos fundamentais da linguagem Python e me familiarizou com várias bibliotecas e recursos úteis.
 
